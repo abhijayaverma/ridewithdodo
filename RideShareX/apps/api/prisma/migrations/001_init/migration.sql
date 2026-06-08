@@ -1,0 +1,3 @@
+-- Initial RideShareX schema placeholder.
+-- Run `npx prisma migrate dev --name init` after installing dependencies to generate
+-- a concrete PostgreSQL migration from apps/api/prisma/schema.prisma.
